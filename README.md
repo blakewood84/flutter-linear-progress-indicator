@@ -1,6 +1,6 @@
 # flutter_linear_controller
 
-A new Flutter project.
+An example of Animating a Linear Progress Indicator. Use of Tween Animation.
 
 ## Getting Started
 
